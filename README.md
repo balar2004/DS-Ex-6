@@ -1,5 +1,7 @@
 ## Ex.No:6 Data Visualization using Seaborn Library
-
+### Date : 
+### Name : Bala R
+### Reg No : 212222220007
 ## Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
